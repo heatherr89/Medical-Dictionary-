@@ -13,7 +13,6 @@ Tasks
 
 <img
 src=“https://m.media-amazon.com/images/I/518A92-gzML.jpg”
-raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
