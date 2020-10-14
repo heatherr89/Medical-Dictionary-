@@ -10,4 +10,5 @@ Tasks
 1. Scrapped the words from the medical dictionary
 2. Create a text file that included the medical terms. 
 
-<img class="global-logo-img" src="/images/logo-harvard_health-full-v2-@2x.png" alt="Harvard Health Publishing Logo" width="341" height="81">
+
+<img class="global-logo-img" src="/images/logo-harvard_health-full-v2-@2x.png" alt="Harvard Health Publishing Logo" width="341" height="81" raw = true>
