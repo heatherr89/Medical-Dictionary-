@@ -11,4 +11,4 @@ Tasks
 2. Create a text file that included the medical terms. 
 
 
-<img class="global-logo-img" src="/images/logo-harvard_health-full-v2-@2x.png" alt="Harvard Health Publishing Logo" width="341" height="81" raw = true>
+https://images.app.goo.gl/cYmT35KeWtAE7jNK8
