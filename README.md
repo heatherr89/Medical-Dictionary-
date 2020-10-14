@@ -11,8 +11,4 @@ Tasks
 2. Create a text file that included the medical terms. 
 
 
-<img
-src=“https://m.media-amazon.com/images/I/518A92-gzML.jpg”
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Harvard Medical Dictionary](logo-harvard_health-full-v2-@2x.png)
